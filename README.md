@@ -2,4 +2,4 @@
 
 A simple and dumb Scratch game to fullfil pset0 of CS50
 
-https://scratch.mit.edu/projects/230444657/
+[Click here to play](https://scratch.mit.edu/projects/230444657/)
